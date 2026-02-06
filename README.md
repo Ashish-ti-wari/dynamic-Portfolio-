@@ -1,4 +1,4 @@
-Task Completed: Task 3 – Tech Stack Finalization & Project Setup
+Task Completed: 
 
 Project Name: Personal Portfolio Website
 
